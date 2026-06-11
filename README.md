@@ -21,6 +21,16 @@ This is a project developed for fulfilling the need of blind people for accessin
 
 <br />
 
+## 🎥 Prototype Simulation Preview
+
+<p align="center">
+  <img src="assets/demo.gif" width="650">
+</p>
+
+<p align="center">
+  <i>3D simulation of the compact refreshable Braille cell showing real-time pin actuation.</i>
+</p>
+
 ---
 
 </div>
@@ -240,7 +250,7 @@ The simulation demonstrates:
 - 🎚️ Adjustable reading speed control
 - 🖥️ Raspberry Pi driven actuation workflow
 
-(https://res.cloudinary.com/dunczyea6/video/upload/v1781195695/New_video_1_o4tk0c.avi)
+https://res.cloudinary.com/dunczyea6/video/upload/v1781195695/New_video_1_o4tk0c.avi
 
 ---
 
