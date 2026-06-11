@@ -21,10 +21,10 @@ This is a project developed for fulfilling the need of blind people for accessin
 
 <br />
 
-## 🎥 Prototype Simulation Preview
+## Prototype Simulation Preview
 
 <p align="center">
-  <img src="assets/demo.gif" width="650">
+  <img src="assets/demo.gif" width="850">
 </p>
 
 <p align="center">
@@ -237,21 +237,6 @@ cd democratizing-touch/simulation
 npx serve .
 # Open http://localhost:3000 in your browser
 ```
----
-## 🎥 Simulation Demonstration
-
-A real-time animation of the proposed refreshable Braille cell mechanism developed during the software validation phase.
-
-The simulation demonstrates:
-
-- 🔵 Independent actuation of all six Braille pins
-- ⚙️ Electromechanical cam-based movement concept
-- 📖 Character-by-character Braille refresh
-- 🎚️ Adjustable reading speed control
-- 🖥️ Raspberry Pi driven actuation workflow
-
-https://res.cloudinary.com/dunczyea6/video/upload/v1781195695/New_video_1_o4tk0c.avi
-
 ---
 
 ## 🚀 Getting Started
