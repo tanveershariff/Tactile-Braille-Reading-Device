@@ -222,7 +222,7 @@ The web-based 3D simulation allows real-time visualization of the Braille cell b
 **To run the simulation locally:**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/democratizing-touch.git
+git clone https://github.com/tanveershariff/Tactile-Braille-Reading-Device.git
 cd democratizing-touch/simulation
 npx serve .
 # Open http://localhost:3000 in your browser
@@ -247,7 +247,7 @@ node --version   # Node.js 18+
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/democratizing-touch.git
+git clone https://github.com/tanveershariff/Tactile-Braille-Reading-Device.git
 cd democratizing-touch
 ```
 
