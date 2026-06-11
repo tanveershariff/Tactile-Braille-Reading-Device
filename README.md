@@ -308,11 +308,10 @@ democratizing-touch/
 | Name | Role | USN |
 |------|------|-----|
 | **Tanveer Shariff** | Project Lead — Hardware & Software | 1AT23CS170 |
-| *(Team Member 2)* | *(Role)* | *(USN)* |
-| *(Team Member 3)* | *(Role)* | *(USN)* |
+| *Syed Allaam Siddick* | *Research and UI Design* | *1AT23CS166* |
 
 **Team No:** 12
-**Institution:** *(Your College Name)*
+**Institution:** *Atria Institute Of Technology*
 **Department:** Computer Science Engineering
 **Batch:** 2023 – 2027
 
